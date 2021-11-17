@@ -1,0 +1,4 @@
+/home/119010114/csc4005-assignment-3_cuda/csc4005-imgui/build/CMakeFiles/rebuild_cache.dir
+/home/119010114/csc4005-assignment-3_cuda/csc4005-imgui/build/CMakeFiles/edit_cache.dir
+/home/119010114/csc4005-assignment-3_cuda/csc4005-imgui/build/CMakeFiles/testCUDA.dir
+/home/119010114/csc4005-assignment-3_cuda/csc4005-imgui/build/CMakeFiles/core.dir
